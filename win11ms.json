@@ -78,8 +78,7 @@
                         "baseosimg": "win11-24h2-avd"
                     },
                     "replicationRegions": [
-                      "<region1>",
-                      "<region2>"
+                      "<region1>"
                     ]
                 }
             ]
